@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>12.0</LangVersion>
+    <RootNamespace>ListeningBrain</RootNamespace>
+    <AssemblyName>ListeningBrain</AssemblyName>
+    <Description>AI Piano Coach - Listening Brain Evaluation Engine</Description>
+    <Authors>AI Piano Coach Team</Authors>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- MIDI file parsing and manipulation -->
+    <PackageReference Include="Melanchall.DryWetMidi" Version="7.2.0" />
+    
+    <!-- High-performance math operations -->
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+    
+    <!-- JSON serialization for results -->
+    <PackageReference Include="System.Text.Json" Version="8.0.5" />
+  </ItemGroup>
+
+</Project>
+
