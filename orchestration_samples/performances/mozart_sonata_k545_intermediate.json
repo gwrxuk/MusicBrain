@@ -1,0 +1,635 @@
+{
+  "scoreTitle": "Mozart - Piano Sonata K.545 'Facile' (Opening)",
+  "notes": [
+    {
+      "pitch": 48,
+      "velocity": 47,
+      "startTimeMs": 0,
+      "durationMs": 111.4826723196929
+    },
+    {
+      "pitch": 72,
+      "velocity": 88,
+      "startTimeMs": 3.6293226998679806,
+      "durationMs": 976.5765459055812
+    },
+    {
+      "pitch": 55,
+      "velocity": 40,
+      "startTimeMs": 125.42842304826901,
+      "durationMs": 127.296689860198
+    },
+    {
+      "pitch": 52,
+      "velocity": 54,
+      "startTimeMs": 243.56158567693274,
+      "durationMs": 128.34746314534658
+    },
+    {
+      "pitch": 55,
+      "velocity": 53,
+      "startTimeMs": 399.4655401466246,
+      "durationMs": 119.0093943694247
+    },
+    {
+      "pitch": 60,
+      "velocity": 52,
+      "startTimeMs": 468.176822121588,
+      "durationMs": 109.87686413125492
+    },
+    {
+      "pitch": 55,
+      "velocity": 54,
+      "startTimeMs": 649.5702618619504,
+      "durationMs": 126.35855342955128
+    },
+    {
+      "pitch": 52,
+      "velocity": 59,
+      "startTimeMs": 776.3523731402396,
+      "durationMs": 139.45444054763027
+    },
+    {
+      "pitch": 55,
+      "velocity": 47,
+      "startTimeMs": 840.5644119058994,
+      "durationMs": 135.24006277957596
+    },
+    {
+      "pitch": 71,
+      "velocity": 81,
+      "startTimeMs": 996.2728241894749,
+      "durationMs": 224.6990572867064
+    },
+    {
+      "pitch": 55,
+      "velocity": 60,
+      "startTimeMs": 1141.1456250766842,
+      "durationMs": 108.92759410919557
+    },
+    {
+      "pitch": 52,
+      "velocity": 54,
+      "startTimeMs": 1229.5848740121141,
+      "durationMs": 120.4795790659118
+    },
+    {
+      "pitch": 55,
+      "velocity": 41,
+      "startTimeMs": 1402.4281536151848,
+      "durationMs": 114.83930269865392
+    },
+    {
+      "pitch": 74,
+      "velocity": 85,
+      "startTimeMs": 1477.0101235243312,
+      "durationMs": 484.3447851590997
+    },
+    {
+      "pitch": 48,
+      "velocity": 46,
+      "startTimeMs": 1481.4192700780561,
+      "durationMs": 140.49260465695795
+    },
+    {
+      "pitch": 55,
+      "velocity": 57,
+      "startTimeMs": 1604.730200615519,
+      "durationMs": 126.46164836252339
+    },
+    {
+      "pitch": 52,
+      "velocity": 51,
+      "startTimeMs": 1756.6826339956526,
+      "durationMs": 114.47452846839813
+    },
+    {
+      "pitch": 48,
+      "velocity": 60,
+      "startTimeMs": 1968.7719304280529,
+      "durationMs": 112.2493250645919
+    },
+    {
+      "pitch": 72,
+      "velocity": 89,
+      "startTimeMs": 1990.7813849339602,
+      "durationMs": 574.4182070360146
+    },
+    {
+      "pitch": 54,
+      "velocity": 43,
+      "startTimeMs": 2139.4226728205213,
+      "durationMs": 131.81413883849658
+    },
+    {
+      "pitch": 52,
+      "velocity": 43,
+      "startTimeMs": 2261.2769438863847,
+      "durationMs": 117.2562548242785
+    },
+    {
+      "pitch": 55,
+      "velocity": 48,
+      "startTimeMs": 2392.767364904793,
+      "durationMs": 142.69580370762932
+    },
+    {
+      "pitch": 48,
+      "velocity": 60,
+      "startTimeMs": 2468.5128658238164,
+      "durationMs": 117.44167967932374
+    },
+    {
+      "pitch": 67,
+      "velocity": 75,
+      "startTimeMs": 2472.2271414839706,
+      "durationMs": 505.9068545179439
+    },
+    {
+      "pitch": 55,
+      "velocity": 50,
+      "startTimeMs": 2585.0457516902356,
+      "durationMs": 124.57271405108555
+    },
+    {
+      "pitch": 52,
+      "velocity": 49,
+      "startTimeMs": 2788.825710315505,
+      "durationMs": 115.22946163767722
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTimeMs": 2841.3005638633094,
+      "durationMs": 136.85087200325333
+    },
+    {
+      "pitch": 72,
+      "velocity": 75,
+      "startTimeMs": 3035.7478943763995,
+      "durationMs": 464.7584943410089
+    },
+    {
+      "pitch": 55,
+      "velocity": 57,
+      "startTimeMs": 3101.9438564353663,
+      "durationMs": 134.57244487384273
+    },
+    {
+      "pitch": 52,
+      "velocity": 60,
+      "startTimeMs": 3241.9193839997947,
+      "durationMs": 120.25326884484853
+    },
+    {
+      "pitch": 55,
+      "velocity": 40,
+      "startTimeMs": 3340.122071706108,
+      "durationMs": 128.31157694214625
+    },
+    {
+      "pitch": 48,
+      "velocity": 60,
+      "startTimeMs": 3465.679446880723,
+      "durationMs": 108.45776625786215
+    },
+    {
+      "pitch": 71,
+      "velocity": 86,
+      "startTimeMs": 3486.4342791264403,
+      "durationMs": 230.35034757767465
+    },
+    {
+      "pitch": 55,
+      "velocity": 58,
+      "startTimeMs": 3595.5849478980026,
+      "durationMs": 127.85793686453374
+    },
+    {
+      "pitch": 52,
+      "velocity": 43,
+      "startTimeMs": 3742.5647969188753,
+      "durationMs": 109.88490553358089
+    },
+    {
+      "pitch": 72,
+      "velocity": 71,
+      "startTimeMs": 3747.3619734429344,
+      "durationMs": 263.0023410469976
+    },
+    {
+      "pitch": 55,
+      "velocity": 43,
+      "startTimeMs": 3862.1442084315977,
+      "durationMs": 115.57461252201072
+    },
+    {
+      "pitch": 43,
+      "velocity": 48,
+      "startTimeMs": 3993.7505311867526,
+      "durationMs": 123.59855256503629
+    },
+    {
+      "pitch": 74,
+      "velocity": 87,
+      "startTimeMs": 4024.6417795785364,
+      "durationMs": 439.6863092302401
+    },
+    {
+      "pitch": 55,
+      "velocity": 42,
+      "startTimeMs": 4086.180628519652,
+      "durationMs": 140.9887618628048
+    },
+    {
+      "pitch": 47,
+      "velocity": 46,
+      "startTimeMs": 4248.851290036057,
+      "durationMs": 138.6743897761331
+    },
+    {
+      "pitch": 55,
+      "velocity": 54,
+      "startTimeMs": 4366.233740607025,
+      "durationMs": 116.94684608550952
+    },
+    {
+      "pitch": 71,
+      "velocity": 71,
+      "startTimeMs": 4519.838044830325,
+      "durationMs": 432.52135058959306
+    },
+    {
+      "pitch": 43,
+      "velocity": 55,
+      "startTimeMs": 4522.668922278743,
+      "durationMs": 112.05488094777742
+    },
+    {
+      "pitch": 56,
+      "velocity": 56,
+      "startTimeMs": 4589.550366378295,
+      "durationMs": 109.25417994652202
+    },
+    {
+      "pitch": 47,
+      "velocity": 47,
+      "startTimeMs": 4764.017004288327,
+      "durationMs": 121.39158317443543
+    },
+    {
+      "pitch": 43,
+      "velocity": 58,
+      "startTimeMs": 4966.55867243959,
+      "durationMs": 127.44600964415335
+    },
+    {
+      "pitch": 67,
+      "velocity": 80,
+      "startTimeMs": 5013.578077981586,
+      "durationMs": 460.802892892377
+    },
+    {
+      "pitch": 55,
+      "velocity": 50,
+      "startTimeMs": 5108.999766383901,
+      "durationMs": 141.0881874389568
+    },
+    {
+      "pitch": 47,
+      "velocity": 43,
+      "startTimeMs": 5255.039491651116,
+      "durationMs": 108.99727704123626
+    },
+    {
+      "pitch": 55,
+      "velocity": 42,
+      "startTimeMs": 5409.660750239496,
+      "durationMs": 139.22263409317037
+    },
+    {
+      "pitch": 43,
+      "velocity": 49,
+      "startTimeMs": 5526.699596371184,
+      "durationMs": 129.18791621472312
+    },
+    {
+      "pitch": 55,
+      "velocity": 43,
+      "startTimeMs": 5608.950300175999,
+      "durationMs": 141.4598751472664
+    },
+    {
+      "pitch": 47,
+      "velocity": 57,
+      "startTimeMs": 5718.562878216753,
+      "durationMs": 112.07929661656216
+    },
+    {
+      "pitch": 55,
+      "velocity": 60,
+      "startTimeMs": 5862.430423023461,
+      "durationMs": 138.23423057719614
+    },
+    {
+      "pitch": 76,
+      "velocity": 74,
+      "startTimeMs": 5960.283655127023,
+      "durationMs": 260.2835032976035
+    },
+    {
+      "pitch": 43,
+      "velocity": 41,
+      "startTimeMs": 6032.652723697486,
+      "durationMs": 109.71119253922751
+    },
+    {
+      "pitch": 55,
+      "velocity": 53,
+      "startTimeMs": 6129.134433690111,
+      "durationMs": 127.284007429053
+    },
+    {
+      "pitch": 77,
+      "velocity": 71,
+      "startTimeMs": 6234.660667994411,
+      "durationMs": 279.9193477394856
+    },
+    {
+      "pitch": 48,
+      "velocity": 51,
+      "startTimeMs": 6253.647223136441,
+      "durationMs": 128.0941087433673
+    },
+    {
+      "pitch": 55,
+      "velocity": 57,
+      "startTimeMs": 6343.223489733743,
+      "durationMs": 139.40505130441284
+    },
+    {
+      "pitch": 43,
+      "velocity": 47,
+      "startTimeMs": 6472.364267066578,
+      "durationMs": 138.67271360824867
+    },
+    {
+      "pitch": 55,
+      "velocity": 53,
+      "startTimeMs": 6611.574837435715,
+      "durationMs": 136.3338177101427
+    },
+    {
+      "pitch": 47,
+      "velocity": 43,
+      "startTimeMs": 6731.344456767559,
+      "durationMs": 120.59531459738506
+    },
+    {
+      "pitch": 55,
+      "velocity": 54,
+      "startTimeMs": 6850.965826402061,
+      "durationMs": 119.36219091672196
+    },
+    {
+      "pitch": 43,
+      "velocity": 46,
+      "startTimeMs": 6977.833883776466,
+      "durationMs": 121.19247419617939
+    },
+    {
+      "pitch": 77,
+      "velocity": 81,
+      "startTimeMs": 7021.8661309952295,
+      "durationMs": 521.2222607911441
+    },
+    {
+      "pitch": 67,
+      "velocity": 43,
+      "startTimeMs": 7160.138971225978,
+      "durationMs": 139.13894043408354
+    },
+    {
+      "pitch": 47,
+      "velocity": 41,
+      "startTimeMs": 7288.684045830648,
+      "durationMs": 110.31509552055167
+    },
+    {
+      "pitch": 55,
+      "velocity": 59,
+      "startTimeMs": 7360.0941851356,
+      "durationMs": 143.15884434937215
+    },
+    {
+      "pitch": 44,
+      "velocity": 53,
+      "startTimeMs": 7480.377800491087,
+      "durationMs": 106.31342293319862
+    },
+    {
+      "pitch": 55,
+      "velocity": 51,
+      "startTimeMs": 7638.650280354641,
+      "durationMs": 122.42365248593703
+    },
+    {
+      "pitch": 55,
+      "velocity": 49,
+      "startTimeMs": 7844.97002525315,
+      "durationMs": 125.26709390132261
+    },
+    {
+      "pitch": 75,
+      "velocity": 79,
+      "startTimeMs": 8009.2411932761115,
+      "durationMs": 485.91127531372445
+    },
+    {
+      "pitch": 48,
+      "velocity": 57,
+      "startTimeMs": 8015.776673135553,
+      "durationMs": 111.02329246471825
+    },
+    {
+      "pitch": 55,
+      "velocity": 58,
+      "startTimeMs": 8101.814614790612,
+      "durationMs": 128.9998088929911
+    },
+    {
+      "pitch": 52,
+      "velocity": 56,
+      "startTimeMs": 8264.050178655209,
+      "durationMs": 123.99448197159975
+    },
+    {
+      "pitch": 48,
+      "velocity": 60,
+      "startTimeMs": 8501.236160793218,
+      "durationMs": 129.4722802010891
+    },
+    {
+      "pitch": 73,
+      "velocity": 77,
+      "startTimeMs": 8513.823653644573,
+      "durationMs": 1091.9688683728798
+    },
+    {
+      "pitch": 55,
+      "velocity": 59,
+      "startTimeMs": 8663.714881822549,
+      "durationMs": 138.11516354842746
+    },
+    {
+      "pitch": 52,
+      "velocity": 46,
+      "startTimeMs": 8760.381230459017,
+      "durationMs": 133.18797183121208
+    },
+    {
+      "pitch": 55,
+      "velocity": 40,
+      "startTimeMs": 8846.805707607304,
+      "durationMs": 139.72474348292624
+    },
+    {
+      "pitch": 36,
+      "velocity": 56,
+      "startTimeMs": 8977.507290944986,
+      "durationMs": 123.67062067153446
+    },
+    {
+      "pitch": 54,
+      "velocity": 54,
+      "startTimeMs": 9121.516946037615,
+      "durationMs": 131.28416497198828
+    },
+    {
+      "pitch": 71,
+      "velocity": 77,
+      "startTimeMs": 9496.005580579753,
+      "durationMs": 275.48971658814406
+    },
+    {
+      "pitch": 48,
+      "velocity": 57,
+      "startTimeMs": 9500.382253185951,
+      "durationMs": 122.97176045287628
+    },
+    {
+      "pitch": 55,
+      "velocity": 47,
+      "startTimeMs": 9623.767761365621,
+      "durationMs": 116.5474042594077
+    },
+    {
+      "pitch": 52,
+      "velocity": 50,
+      "startTimeMs": 9731.737208566576,
+      "durationMs": 139.7385062296369
+    },
+    {
+      "pitch": 72,
+      "velocity": 74,
+      "startTimeMs": 9740.642823394506,
+      "durationMs": 265.48143562709146
+    },
+    {
+      "pitch": 55,
+      "velocity": 53,
+      "startTimeMs": 9878.408891240313,
+      "durationMs": 108.58496414688446
+    },
+    {
+      "pitch": 74,
+      "velocity": 81,
+      "startTimeMs": 9960.47168668672,
+      "durationMs": 469.79189785585754
+    },
+    {
+      "pitch": 48,
+      "velocity": 40,
+      "startTimeMs": 10021.583661785173,
+      "durationMs": 138.37745121139753
+    },
+    {
+      "pitch": 43,
+      "velocity": 57,
+      "startTimeMs": 10128.057645408819,
+      "durationMs": 136.24505641029756
+    },
+    {
+      "pitch": 52,
+      "velocity": 52,
+      "startTimeMs": 10248.85135950388,
+      "durationMs": 118.85485788868935
+    },
+    {
+      "pitch": 55,
+      "velocity": 54,
+      "startTimeMs": 10348.20357849628,
+      "durationMs": 140.73281077508662
+    },
+    {
+      "pitch": 55,
+      "velocity": 54,
+      "startTimeMs": 10619.289021572888,
+      "durationMs": 113.06483849425372
+    },
+    {
+      "pitch": 52,
+      "velocity": 50,
+      "startTimeMs": 10746.375946001319,
+      "durationMs": 134.79611404602602
+    },
+    {
+      "pitch": 55,
+      "velocity": 48,
+      "startTimeMs": 10901.553942812421,
+      "durationMs": 137.55915930920455
+    },
+    {
+      "pitch": 48,
+      "velocity": 51,
+      "startTimeMs": 10964.16684865946,
+      "durationMs": 114.65833121449056
+    },
+    {
+      "pitch": 54,
+      "velocity": 47,
+      "startTimeMs": 11145.338656324762,
+      "durationMs": 113.726025588595
+    },
+    {
+      "pitch": 52,
+      "velocity": 43,
+      "startTimeMs": 11220.097677989936,
+      "durationMs": 127.39885932237573
+    },
+    {
+      "pitch": 55,
+      "velocity": 45,
+      "startTimeMs": 11396.3518478685,
+      "durationMs": 128.97097597101168
+    },
+    {
+      "pitch": 55,
+      "velocity": 58,
+      "startTimeMs": 11609.883113567888,
+      "durationMs": 107.21294095615498
+    },
+    {
+      "pitch": 52,
+      "velocity": 52,
+      "startTimeMs": 11786.653827056472,
+      "durationMs": 141.55514744529913
+    },
+    {
+      "pitch": 55,
+      "velocity": 47,
+      "startTimeMs": 11901.445730702426,
+      "durationMs": 110.07129895422413
+    }
+  ]
+}

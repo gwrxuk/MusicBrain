@@ -1,0 +1,585 @@
+{
+  "title": "Bach - Prelude in C Major (WTC I)",
+  "composer": "J.S. Bach",
+  "bpm": 72,
+  "timeSignature": "4/4",
+  "ppq": 480,
+  "notes": [
+    {
+      "pitch": 48,
+      "velocity": 65,
+      "startTick": 0,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 1.0,
+      "voice": 2
+    },
+    {
+      "pitch": 52,
+      "velocity": 55,
+      "startTick": 60,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 1.5,
+      "voice": 2
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTick": 120,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 2.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 180,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 2.5,
+      "voice": 1
+    },
+    {
+      "pitch": 64,
+      "velocity": 65,
+      "startTick": 240,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 3.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 300,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 3.5,
+      "voice": 1
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTick": 360,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 4.0,
+      "voice": 1
+    },
+    {
+      "pitch": 52,
+      "velocity": 55,
+      "startTick": 420,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 4.5,
+      "voice": 2
+    },
+    {
+      "pitch": 48,
+      "velocity": 65,
+      "startTick": 480,
+      "durationTicks": 240,
+      "measure": 2,
+      "beat": 1.0,
+      "voice": 2
+    },
+    {
+      "pitch": 53,
+      "velocity": 55,
+      "startTick": 540,
+      "durationTicks": 240,
+      "measure": 2,
+      "beat": 1.5,
+      "voice": 2
+    },
+    {
+      "pitch": 57,
+      "velocity": 55,
+      "startTick": 600,
+      "durationTicks": 240,
+      "measure": 2,
+      "beat": 2.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 660,
+      "durationTicks": 240,
+      "measure": 2,
+      "beat": 2.5,
+      "voice": 1
+    },
+    {
+      "pitch": 65,
+      "velocity": 65,
+      "startTick": 720,
+      "durationTicks": 240,
+      "measure": 2,
+      "beat": 3.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 780,
+      "durationTicks": 240,
+      "measure": 2,
+      "beat": 3.5,
+      "voice": 1
+    },
+    {
+      "pitch": 57,
+      "velocity": 55,
+      "startTick": 840,
+      "durationTicks": 240,
+      "measure": 2,
+      "beat": 4.0,
+      "voice": 1
+    },
+    {
+      "pitch": 53,
+      "velocity": 55,
+      "startTick": 900,
+      "durationTicks": 240,
+      "measure": 2,
+      "beat": 4.5,
+      "voice": 2
+    },
+    {
+      "pitch": 43,
+      "velocity": 65,
+      "startTick": 960,
+      "durationTicks": 240,
+      "measure": 3,
+      "beat": 1.0,
+      "voice": 2
+    },
+    {
+      "pitch": 47,
+      "velocity": 55,
+      "startTick": 1020,
+      "durationTicks": 240,
+      "measure": 3,
+      "beat": 1.5,
+      "voice": 2
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTick": 1080,
+      "durationTicks": 240,
+      "measure": 3,
+      "beat": 2.0,
+      "voice": 1
+    },
+    {
+      "pitch": 59,
+      "velocity": 55,
+      "startTick": 1140,
+      "durationTicks": 240,
+      "measure": 3,
+      "beat": 2.5,
+      "voice": 1
+    },
+    {
+      "pitch": 62,
+      "velocity": 65,
+      "startTick": 1200,
+      "durationTicks": 240,
+      "measure": 3,
+      "beat": 3.0,
+      "voice": 1
+    },
+    {
+      "pitch": 59,
+      "velocity": 55,
+      "startTick": 1260,
+      "durationTicks": 240,
+      "measure": 3,
+      "beat": 3.5,
+      "voice": 1
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTick": 1320,
+      "durationTicks": 240,
+      "measure": 3,
+      "beat": 4.0,
+      "voice": 1
+    },
+    {
+      "pitch": 47,
+      "velocity": 55,
+      "startTick": 1380,
+      "durationTicks": 240,
+      "measure": 3,
+      "beat": 4.5,
+      "voice": 2
+    },
+    {
+      "pitch": 48,
+      "velocity": 65,
+      "startTick": 1440,
+      "durationTicks": 240,
+      "measure": 4,
+      "beat": 1.0,
+      "voice": 2
+    },
+    {
+      "pitch": 52,
+      "velocity": 55,
+      "startTick": 1500,
+      "durationTicks": 240,
+      "measure": 4,
+      "beat": 1.5,
+      "voice": 2
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTick": 1560,
+      "durationTicks": 240,
+      "measure": 4,
+      "beat": 2.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 1620,
+      "durationTicks": 240,
+      "measure": 4,
+      "beat": 2.5,
+      "voice": 1
+    },
+    {
+      "pitch": 64,
+      "velocity": 65,
+      "startTick": 1680,
+      "durationTicks": 240,
+      "measure": 4,
+      "beat": 3.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 1740,
+      "durationTicks": 240,
+      "measure": 4,
+      "beat": 3.5,
+      "voice": 1
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTick": 1800,
+      "durationTicks": 240,
+      "measure": 4,
+      "beat": 4.0,
+      "voice": 1
+    },
+    {
+      "pitch": 52,
+      "velocity": 55,
+      "startTick": 1860,
+      "durationTicks": 240,
+      "measure": 4,
+      "beat": 4.5,
+      "voice": 2
+    },
+    {
+      "pitch": 48,
+      "velocity": 65,
+      "startTick": 1920,
+      "durationTicks": 240,
+      "measure": 5,
+      "beat": 1.0,
+      "voice": 2
+    },
+    {
+      "pitch": 52,
+      "velocity": 55,
+      "startTick": 1980,
+      "durationTicks": 240,
+      "measure": 5,
+      "beat": 1.5,
+      "voice": 2
+    },
+    {
+      "pitch": 57,
+      "velocity": 55,
+      "startTick": 2040,
+      "durationTicks": 240,
+      "measure": 5,
+      "beat": 2.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 2100,
+      "durationTicks": 240,
+      "measure": 5,
+      "beat": 2.5,
+      "voice": 1
+    },
+    {
+      "pitch": 64,
+      "velocity": 65,
+      "startTick": 2160,
+      "durationTicks": 240,
+      "measure": 5,
+      "beat": 3.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 2220,
+      "durationTicks": 240,
+      "measure": 5,
+      "beat": 3.5,
+      "voice": 1
+    },
+    {
+      "pitch": 57,
+      "velocity": 55,
+      "startTick": 2280,
+      "durationTicks": 240,
+      "measure": 5,
+      "beat": 4.0,
+      "voice": 1
+    },
+    {
+      "pitch": 52,
+      "velocity": 55,
+      "startTick": 2340,
+      "durationTicks": 240,
+      "measure": 5,
+      "beat": 4.5,
+      "voice": 2
+    },
+    {
+      "pitch": 41,
+      "velocity": 65,
+      "startTick": 2400,
+      "durationTicks": 240,
+      "measure": 6,
+      "beat": 1.0,
+      "voice": 2
+    },
+    {
+      "pitch": 53,
+      "velocity": 55,
+      "startTick": 2460,
+      "durationTicks": 240,
+      "measure": 6,
+      "beat": 1.5,
+      "voice": 2
+    },
+    {
+      "pitch": 57,
+      "velocity": 55,
+      "startTick": 2520,
+      "durationTicks": 240,
+      "measure": 6,
+      "beat": 2.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 2580,
+      "durationTicks": 240,
+      "measure": 6,
+      "beat": 2.5,
+      "voice": 1
+    },
+    {
+      "pitch": 65,
+      "velocity": 65,
+      "startTick": 2640,
+      "durationTicks": 240,
+      "measure": 6,
+      "beat": 3.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 2700,
+      "durationTicks": 240,
+      "measure": 6,
+      "beat": 3.5,
+      "voice": 1
+    },
+    {
+      "pitch": 57,
+      "velocity": 55,
+      "startTick": 2760,
+      "durationTicks": 240,
+      "measure": 6,
+      "beat": 4.0,
+      "voice": 1
+    },
+    {
+      "pitch": 53,
+      "velocity": 55,
+      "startTick": 2820,
+      "durationTicks": 240,
+      "measure": 6,
+      "beat": 4.5,
+      "voice": 2
+    },
+    {
+      "pitch": 43,
+      "velocity": 65,
+      "startTick": 2880,
+      "durationTicks": 240,
+      "measure": 7,
+      "beat": 1.0,
+      "voice": 2
+    },
+    {
+      "pitch": 50,
+      "velocity": 55,
+      "startTick": 2940,
+      "durationTicks": 240,
+      "measure": 7,
+      "beat": 1.5,
+      "voice": 2
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTick": 3000,
+      "durationTicks": 240,
+      "measure": 7,
+      "beat": 2.0,
+      "voice": 1
+    },
+    {
+      "pitch": 59,
+      "velocity": 55,
+      "startTick": 3060,
+      "durationTicks": 240,
+      "measure": 7,
+      "beat": 2.5,
+      "voice": 1
+    },
+    {
+      "pitch": 62,
+      "velocity": 65,
+      "startTick": 3120,
+      "durationTicks": 240,
+      "measure": 7,
+      "beat": 3.0,
+      "voice": 1
+    },
+    {
+      "pitch": 59,
+      "velocity": 55,
+      "startTick": 3180,
+      "durationTicks": 240,
+      "measure": 7,
+      "beat": 3.5,
+      "voice": 1
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTick": 3240,
+      "durationTicks": 240,
+      "measure": 7,
+      "beat": 4.0,
+      "voice": 1
+    },
+    {
+      "pitch": 50,
+      "velocity": 55,
+      "startTick": 3300,
+      "durationTicks": 240,
+      "measure": 7,
+      "beat": 4.5,
+      "voice": 2
+    },
+    {
+      "pitch": 48,
+      "velocity": 65,
+      "startTick": 3360,
+      "durationTicks": 240,
+      "measure": 8,
+      "beat": 1.0,
+      "voice": 2
+    },
+    {
+      "pitch": 52,
+      "velocity": 55,
+      "startTick": 3420,
+      "durationTicks": 240,
+      "measure": 8,
+      "beat": 1.5,
+      "voice": 2
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTick": 3480,
+      "durationTicks": 240,
+      "measure": 8,
+      "beat": 2.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 3540,
+      "durationTicks": 240,
+      "measure": 8,
+      "beat": 2.5,
+      "voice": 1
+    },
+    {
+      "pitch": 64,
+      "velocity": 65,
+      "startTick": 3600,
+      "durationTicks": 240,
+      "measure": 8,
+      "beat": 3.0,
+      "voice": 1
+    },
+    {
+      "pitch": 60,
+      "velocity": 55,
+      "startTick": 3660,
+      "durationTicks": 240,
+      "measure": 8,
+      "beat": 3.5,
+      "voice": 1
+    },
+    {
+      "pitch": 55,
+      "velocity": 55,
+      "startTick": 3720,
+      "durationTicks": 240,
+      "measure": 8,
+      "beat": 4.0,
+      "voice": 1
+    },
+    {
+      "pitch": 52,
+      "velocity": 55,
+      "startTick": 3780,
+      "durationTicks": 240,
+      "measure": 8,
+      "beat": 4.5,
+      "voice": 2
+    }
+  ]
+}
