@@ -249,12 +249,12 @@ public class PianoCoachBrain : MonoBehaviour
 - [x] Sample data generation (260+ test files)
 - [x] Classic orchestration samples (Bach, Mozart, Chopin, Beethoven, Debussy)
 
-### 🚧 Phase 2: Dynamics & Expression (In Progress)
-- [ ] Dynamics evaluation (velocity curves)
-- [ ] Articulation detection (staccato, legato, accents)
-- [ ] Pedal usage analysis
-- [ ] Phrase shaping evaluation
-- [ ] Expression marking compliance
+### ✅ Phase 2: Dynamics & Expression (Complete)
+- [x] Dynamics evaluation (velocity curves, crescendo/diminuendo detection)
+- [x] Articulation detection (staccato, legato, accents, duration analysis)
+- [x] Pedal usage analysis (timing, clarity, harmony-aware)
+- [x] Phrase shaping evaluation (dynamic arcs, breathing, musicality)
+- [x] Expression marking compliance (dynamic level adherence)
 
 ### 📋 Phase 3: Intelligence & Learning
 - [ ] ML-enhanced alignment (neural sequence matching)
