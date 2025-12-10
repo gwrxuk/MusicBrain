@@ -4,13 +4,27 @@
 
 ## 🌟 Features
 
+### Core Evaluation
 - **Note Accuracy Evaluation** - Detects wrong notes, missed notes, extra notes, and octave errors
 - **Rhythm Precision Analysis** - Measures timing accuracy relative to the beat with configurable thresholds
 - **Tempo Stability Tracking** - Monitors tempo consistency and detects rushing/dragging
+- **Dynamics & Expression** - Velocity curves, articulation, pedaling, phrase shaping
 - **Real-Time Feedback** - Live evaluation during performance with immediate feedback
 - **Polyphonic Alignment** - Handles multi-voice piano music with voice separation
-- **Configurable Difficulty** - Beginner, standard, and advanced evaluation modes
-- **Practice Suggestions** - AI-generated recommendations for improvement
+
+### Intelligence & Learning
+- **Error Pattern Recognition** - Identifies recurring mistakes (intervals, rhythm, leaps, chords)
+- **Student Skill Profiling** - Tracks 10 skill dimensions with progress history
+- **Personalized Feedback** - Tailored suggestions based on learning history
+- **Adaptive Difficulty** - Automatic assessment and piece recommendations
+
+### Practice Management
+- **Session Tracking** - Records practice sessions with detailed statistics
+- **Progress Visualization** - Timelines, skill radar charts, weekly reports
+- **Goal Management** - Smart goals with achievement tracking and milestones
+- **Repertoire System** - Piece tracking, suggestions, and practice priorities
+- **Spaced Repetition** - SM-2 algorithm for efficient passage review scheduling
+- **Difficulty Progression** - Structured curriculum paths with level assessments
 
 ## 🏗️ Architecture
 
@@ -176,8 +190,10 @@ music-brain/
 │   │   ├── Models/          # Data models (MidiNoteEvent, Score, Performance)
 │   │   └── Parsers/         # MIDI file parsing (DryWetMidi)
 │   ├── Alignment/           # DTW, Needleman-Wunsch, Hybrid aligner
-│   ├── Evaluation/          # Note accuracy, rhythm, tempo evaluators
+│   ├── Evaluation/          # Note accuracy, rhythm, tempo, dynamics, expression
 │   ├── Feedback/            # Human-readable feedback generation
+│   ├── Intelligence/        # Error patterns, student profiles, adaptive learning
+│   ├── Practice/            # Session tracking, progress, goals, spaced repetition
 │   └── Pipeline/            # Orchestration (batch & real-time)
 ├── tests/ListeningBrain.Tests/
 │   ├── Alignment/
@@ -263,13 +279,13 @@ public class PianoCoachBrain : MonoBehaviour
 - [x] Adaptive difficulty assessment with piece recommendations
 - [x] Student skill profiling (10 skill dimensions, progress tracking)
 
-### 🔮 Phase 4: Practice Management
-- [ ] Practice session history tracking
-- [ ] Progress visualization over time
-- [ ] Difficulty progression system
-- [ ] Repertoire management
-- [ ] Goal setting and achievement tracking
-- [ ] Spaced repetition for problem passages
+### ✅ Phase 4: Practice Management (Complete)
+- [x] Practice session history tracking (sessions, attempts, statistics)
+- [x] Progress visualization over time (timelines, skill radar, weekly reports)
+- [x] Difficulty progression system (curriculum paths, level assessment)
+- [x] Repertoire management (piece tracking, suggestions, priorities)
+- [x] Goal setting and achievement tracking (smart goals, milestones)
+- [x] Spaced repetition for problem passages (SM-2 algorithm, scheduling)
 
 ### 🎯 Phase 5: Advanced Features
 - [ ] Sight-reading mode (score display sync)
