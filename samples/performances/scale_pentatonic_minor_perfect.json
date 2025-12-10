@@ -1,0 +1,41 @@
+{
+  "scoreTitle": "Scale: pentatonic_minor",
+  "notes": [
+    {
+      "pitch": 60,
+      "velocity": 66,
+      "startTimeMs": 0,
+      "durationMs": 580.9324701239726
+    },
+    {
+      "pitch": 63,
+      "velocity": 91,
+      "startTimeMs": 501.1122588940479,
+      "durationMs": 518.2084978579844
+    },
+    {
+      "pitch": 65,
+      "velocity": 90,
+      "startTimeMs": 999.9714349653556,
+      "durationMs": 523.1257054516265
+    },
+    {
+      "pitch": 67,
+      "velocity": 91,
+      "startTimeMs": 1498.3734311022997,
+      "durationMs": 596.4385505585797
+    },
+    {
+      "pitch": 70,
+      "velocity": 83,
+      "startTimeMs": 2004.758532694287,
+      "durationMs": 509.1769593020223
+    },
+    {
+      "pitch": 72,
+      "velocity": 66,
+      "startTimeMs": 2497.1323183748295,
+      "durationMs": 518.6170506081696
+    }
+  ]
+}

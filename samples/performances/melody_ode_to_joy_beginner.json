@@ -1,0 +1,77 @@
+{
+  "scoreTitle": "Melody: ode_to_joy",
+  "notes": [
+    {
+      "pitch": 64,
+      "velocity": 90,
+      "startTimeMs": 701.7973121359253,
+      "durationMs": 525.5138704628014
+    },
+    {
+      "pitch": 77,
+      "velocity": 85,
+      "startTimeMs": 1223.8917990259054,
+      "durationMs": 538.6919133442883
+    },
+    {
+      "pitch": 68,
+      "velocity": 74,
+      "startTimeMs": 1885.064503911975,
+      "durationMs": 669.5010694537764
+    },
+    {
+      "pitch": 67,
+      "velocity": 92,
+      "startTimeMs": 2470.9468608142256,
+      "durationMs": 510.3500476804423
+    },
+    {
+      "pitch": 65,
+      "velocity": 88,
+      "startTimeMs": 2997.3577526972967,
+      "durationMs": 499.5378484451745
+    },
+    {
+      "pitch": 63,
+      "velocity": 77,
+      "startTimeMs": 3520.184049919749,
+      "durationMs": 660.313929109136
+    },
+    {
+      "pitch": 60,
+      "velocity": 76,
+      "startTimeMs": 4757.23755189029,
+      "durationMs": 606.1141610643441
+    },
+    {
+      "pitch": 48,
+      "velocity": 77,
+      "startTimeMs": 5344.400510039068,
+      "durationMs": 633.145344116423
+    },
+    {
+      "pitch": 52,
+      "velocity": 77,
+      "startTimeMs": 6687.160383285972,
+      "durationMs": 532.462494324444
+    },
+    {
+      "pitch": 64,
+      "velocity": 91,
+      "startTimeMs": 7117.730240706502,
+      "durationMs": 854.6786479028355
+    },
+    {
+      "pitch": 62,
+      "velocity": 79,
+      "startTimeMs": 8000.166755846229,
+      "durationMs": 302.2584864660277
+    },
+    {
+      "pitch": 62,
+      "velocity": 75,
+      "startTimeMs": 8402.942901172268,
+      "durationMs": 1164.5291249197169
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "scoreTitle": "Melody: simple_waltz",
+  "notes": [
+    {
+      "pitch": 72,
+      "velocity": 73,
+      "startTimeMs": 73.70588319776874,
+      "durationMs": 605.7250107476807
+    },
+    {
+      "pitch": 63,
+      "velocity": 81,
+      "startTimeMs": 599.0754165444334,
+      "durationMs": 566.4297349252208
+    },
+    {
+      "pitch": 67,
+      "velocity": 73,
+      "startTimeMs": 1168.2450666856348,
+      "durationMs": 665.5989487819163
+    },
+    {
+      "pitch": 59,
+      "velocity": 92,
+      "startTimeMs": 2290.5690977430745,
+      "durationMs": 482.94913752892876
+    },
+    {
+      "pitch": 65,
+      "velocity": 70,
+      "startTimeMs": 3100.854370862397,
+      "durationMs": 703.4784185177245
+    }
+  ]
+}

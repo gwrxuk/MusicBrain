@@ -1,0 +1,80 @@
+{
+  "title": "Melody: fur_elise_theme",
+  "bpm": 100,
+  "timeSignature": "4/4",
+  "ppq": 480,
+  "notes": [
+    {
+      "pitch": 76,
+      "velocity": 80,
+      "startTick": 0,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 75,
+      "velocity": 80,
+      "startTick": 240,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 1.5
+    },
+    {
+      "pitch": 76,
+      "velocity": 80,
+      "startTick": 480,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 2.0
+    },
+    {
+      "pitch": 75,
+      "velocity": 80,
+      "startTick": 720,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 2.5
+    },
+    {
+      "pitch": 76,
+      "velocity": 80,
+      "startTick": 960,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 3.0
+    },
+    {
+      "pitch": 71,
+      "velocity": 80,
+      "startTick": 1200,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 3.5
+    },
+    {
+      "pitch": 74,
+      "velocity": 80,
+      "startTick": 1440,
+      "durationTicks": 240,
+      "measure": 1,
+      "beat": 4.0
+    },
+    {
+      "pitch": 72,
+      "velocity": 80,
+      "startTick": 1680,
+      "durationTicks": 240,
+      "measure": 2,
+      "beat": 0.5
+    },
+    {
+      "pitch": 69,
+      "velocity": 80,
+      "startTick": 1920,
+      "durationTicks": 480,
+      "measure": 2,
+      "beat": 1.0
+    }
+  ]
+}

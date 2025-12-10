@@ -1,0 +1,71 @@
+{
+  "scoreTitle": "Chords: ii_V_I_jazz",
+  "notes": [
+    {
+      "pitch": 69,
+      "velocity": 71,
+      "startTimeMs": 20.954545324766915,
+      "durationMs": 1469.3907761112266
+    },
+    {
+      "pitch": 72,
+      "velocity": 90,
+      "startTimeMs": 27.61467451223322,
+      "durationMs": 1169.865446464927
+    },
+    {
+      "pitch": 65,
+      "velocity": 87,
+      "startTimeMs": 28.092489287588542,
+      "durationMs": 1302.967388749057
+    },
+    {
+      "pitch": 62,
+      "velocity": 61,
+      "startTimeMs": 46.5833213568662,
+      "durationMs": 1073.5814600931405
+    },
+    {
+      "pitch": 66,
+      "velocity": 65,
+      "startTimeMs": 1302.0309914865657,
+      "durationMs": 1458.7090592139834
+    },
+    {
+      "pitch": 71,
+      "velocity": 68,
+      "startTimeMs": 1311.2445579642542,
+      "durationMs": 1136.0354827281985
+    },
+    {
+      "pitch": 74,
+      "velocity": 82,
+      "startTimeMs": 1316.3896122075603,
+      "durationMs": 1566.6637069177855
+    },
+    {
+      "pitch": 76,
+      "velocity": 80,
+      "startTimeMs": 1360.699428319222,
+      "durationMs": 1394.9912939196427
+    },
+    {
+      "pitch": 67,
+      "velocity": 62,
+      "startTimeMs": 2670.3702619200576,
+      "durationMs": 1253.0149071264188
+    },
+    {
+      "pitch": 60,
+      "velocity": 71,
+      "startTimeMs": 2673.9343657221593,
+      "durationMs": 1105.536424255496
+    },
+    {
+      "pitch": 64,
+      "velocity": 76,
+      "startTimeMs": 2712.365438429417,
+      "durationMs": 1103.0274501890271
+    }
+  ]
+}

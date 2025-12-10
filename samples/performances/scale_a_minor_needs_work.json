@@ -1,0 +1,29 @@
+{
+  "scoreTitle": "Scale: a_minor",
+  "notes": [
+    {
+      "pitch": 57,
+      "velocity": 90,
+      "startTimeMs": 78.98605148830916,
+      "durationMs": 471.0481953164547
+    },
+    {
+      "pitch": 71,
+      "velocity": 92,
+      "startTimeMs": 563.4108318700532,
+      "durationMs": 538.0271164680954
+    },
+    {
+      "pitch": 60,
+      "velocity": 94,
+      "startTimeMs": 1033.024786770847,
+      "durationMs": 589.2535454598468
+    },
+    {
+      "pitch": 67,
+      "velocity": 70,
+      "startTimeMs": 3001.1689163510932,
+      "durationMs": 525.9852232308081
+    }
+  ]
+}

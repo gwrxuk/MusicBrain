@@ -1,0 +1,95 @@
+{
+  "scoreTitle": "Melody: ode_to_joy",
+  "notes": [
+    {
+      "pitch": 64,
+      "velocity": 69,
+      "startTimeMs": 0,
+      "durationMs": 523.8405422965667
+    },
+    {
+      "pitch": 64,
+      "velocity": 86,
+      "startTimeMs": 604.5216472750363,
+      "durationMs": 520.6058515171654
+    },
+    {
+      "pitch": 65,
+      "velocity": 66,
+      "startTimeMs": 1195.271711924173,
+      "durationMs": 551.5258408604975
+    },
+    {
+      "pitch": 67,
+      "velocity": 73,
+      "startTimeMs": 1803.9301102104946,
+      "durationMs": 570.1231579927996
+    },
+    {
+      "pitch": 67,
+      "velocity": 89,
+      "startTimeMs": 2397.0255945801455,
+      "durationMs": 623.2811085928006
+    },
+    {
+      "pitch": 65,
+      "velocity": 95,
+      "startTimeMs": 3000.0442125190084,
+      "durationMs": 507.61952925197045
+    },
+    {
+      "pitch": 64,
+      "velocity": 80,
+      "startTimeMs": 3599.07076463591,
+      "durationMs": 486.93754507451143
+    },
+    {
+      "pitch": 62,
+      "velocity": 82,
+      "startTimeMs": 4195.186228325156,
+      "durationMs": 711.233925079416
+    },
+    {
+      "pitch": 60,
+      "velocity": 90,
+      "startTimeMs": 4800.547074500587,
+      "durationMs": 510.13712222208886
+    },
+    {
+      "pitch": 60,
+      "velocity": 81,
+      "startTimeMs": 5403.462778526232,
+      "durationMs": 528.8296576432257
+    },
+    {
+      "pitch": 62,
+      "velocity": 90,
+      "startTimeMs": 6004.853087154641,
+      "durationMs": 538.8387564495843
+    },
+    {
+      "pitch": 64,
+      "velocity": 66,
+      "startTimeMs": 6600.551522482317,
+      "durationMs": 480.2402540671415
+    },
+    {
+      "pitch": 64,
+      "velocity": 70,
+      "startTimeMs": 7197.89249454834,
+      "durationMs": 720.1954554145262
+    },
+    {
+      "pitch": 62,
+      "velocity": 91,
+      "startTimeMs": 8100.978677515007,
+      "durationMs": 321.59973565949815
+    },
+    {
+      "pitch": 62,
+      "velocity": 91,
+      "startTimeMs": 8397.127541347232,
+      "durationMs": 1204.9576423691915
+    }
+  ]
+}

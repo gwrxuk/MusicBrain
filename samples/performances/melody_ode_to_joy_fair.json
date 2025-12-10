@@ -1,0 +1,95 @@
+{
+  "scoreTitle": "Melody: ode_to_joy",
+  "notes": [
+    {
+      "pitch": 64,
+      "velocity": 89,
+      "startTimeMs": 44.354757720910634,
+      "durationMs": 623.9915292612909
+    },
+    {
+      "pitch": 64,
+      "velocity": 68,
+      "startTimeMs": 594.6456190786768,
+      "durationMs": 500.5283277771334
+    },
+    {
+      "pitch": 65,
+      "velocity": 92,
+      "startTimeMs": 1181.3279434219626,
+      "durationMs": 646.4072800845413
+    },
+    {
+      "pitch": 67,
+      "velocity": 66,
+      "startTimeMs": 1830.2387099280345,
+      "durationMs": 552.3530577613211
+    },
+    {
+      "pitch": 67,
+      "velocity": 82,
+      "startTimeMs": 2417.7564457474573,
+      "durationMs": 492.5287544040384
+    },
+    {
+      "pitch": 65,
+      "velocity": 92,
+      "startTimeMs": 2991.1108003803433,
+      "durationMs": 623.89820478107
+    },
+    {
+      "pitch": 64,
+      "velocity": 90,
+      "startTimeMs": 3588.392002481378,
+      "durationMs": 582.7453778027382
+    },
+    {
+      "pitch": 62,
+      "velocity": 86,
+      "startTimeMs": 4215.092142624844,
+      "durationMs": 667.9029930102325
+    },
+    {
+      "pitch": 60,
+      "velocity": 68,
+      "startTimeMs": 4769.248131743078,
+      "durationMs": 482.949259749368
+    },
+    {
+      "pitch": 60,
+      "velocity": 93,
+      "startTimeMs": 5434.077946240913,
+      "durationMs": 617.570911871162
+    },
+    {
+      "pitch": 62,
+      "velocity": 88,
+      "startTimeMs": 5992.100700349658,
+      "durationMs": 629.0042128168781
+    },
+    {
+      "pitch": 64,
+      "velocity": 69,
+      "startTimeMs": 6554.407078817852,
+      "durationMs": 554.8000459394258
+    },
+    {
+      "pitch": 76,
+      "velocity": 93,
+      "startTimeMs": 7181.118824022759,
+      "durationMs": 914.8117342530076
+    },
+    {
+      "pitch": 62,
+      "velocity": 74,
+      "startTimeMs": 8110.332948969975,
+      "durationMs": 284.2595994206706
+    },
+    {
+      "pitch": 62,
+      "velocity": 66,
+      "startTimeMs": 8417.830037433356,
+      "durationMs": 1073.945930625586
+    }
+  ]
+}

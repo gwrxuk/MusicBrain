@@ -1,0 +1,77 @@
+{
+  "scoreTitle": "Scale: chromatic_descending",
+  "notes": [
+    {
+      "pitch": 72,
+      "velocity": 89,
+      "startTimeMs": 23.706013750961908,
+      "durationMs": 599.2784097012915
+    },
+    {
+      "pitch": 59,
+      "velocity": 91,
+      "startTimeMs": 485.480463456516,
+      "durationMs": 598.3083841878488
+    },
+    {
+      "pitch": 70,
+      "velocity": 88,
+      "startTimeMs": 981.8004368291872,
+      "durationMs": 539.5253127199161
+    },
+    {
+      "pitch": 69,
+      "velocity": 83,
+      "startTimeMs": 1544.7558735070015,
+      "durationMs": 428.420458083017
+    },
+    {
+      "pitch": 79,
+      "velocity": 66,
+      "startTimeMs": 2467.555676766065,
+      "durationMs": 418.05147537018064
+    },
+    {
+      "pitch": 66,
+      "velocity": 65,
+      "startTimeMs": 3002.644851414851,
+      "durationMs": 466.34679871484076
+    },
+    {
+      "pitch": 65,
+      "velocity": 70,
+      "startTimeMs": 3484.075904426678,
+      "durationMs": 583.7561574614414
+    },
+    {
+      "pitch": 64,
+      "velocity": 94,
+      "startTimeMs": 4008.660917509121,
+      "durationMs": 428.3305328702428
+    },
+    {
+      "pitch": 63,
+      "velocity": 67,
+      "startTimeMs": 4486.488985240876,
+      "durationMs": 474.7181560166747
+    },
+    {
+      "pitch": 62,
+      "velocity": 69,
+      "startTimeMs": 4980.176515372547,
+      "durationMs": 595.1721342764854
+    },
+    {
+      "pitch": 61,
+      "velocity": 80,
+      "startTimeMs": 5513.926599145429,
+      "durationMs": 529.8360531289629
+    },
+    {
+      "pitch": 72,
+      "velocity": 83,
+      "startTimeMs": 5972.323721398065,
+      "durationMs": 562.8908472885961
+    }
+  ]
+}

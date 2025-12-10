@@ -1,0 +1,77 @@
+{
+  "scoreTitle": "Chords: I_vi_IV_V",
+  "notes": [
+    {
+      "pitch": 60,
+      "velocity": 89,
+      "startTimeMs": 0,
+      "durationMs": 1432.2809066261098
+    },
+    {
+      "pitch": 67,
+      "velocity": 69,
+      "startTimeMs": 0,
+      "durationMs": 1074.9826131417678
+    },
+    {
+      "pitch": 64,
+      "velocity": 79,
+      "startTimeMs": 74.66743503782959,
+      "durationMs": 1364.3417861633313
+    },
+    {
+      "pitch": 57,
+      "velocity": 61,
+      "startTimeMs": 1348.2247922302513,
+      "durationMs": 1327.1287691824496
+    },
+    {
+      "pitch": 60,
+      "velocity": 61,
+      "startTimeMs": 1386.7909415570596,
+      "durationMs": 1200.7645135629923
+    },
+    {
+      "pitch": 64,
+      "velocity": 81,
+      "startTimeMs": 1390.7750203235862,
+      "durationMs": 1577.8796226536647
+    },
+    {
+      "pitch": 77,
+      "velocity": 83,
+      "startTimeMs": 2609.4897476783362,
+      "durationMs": 1171.5879536948632
+    },
+    {
+      "pitch": 69,
+      "velocity": 75,
+      "startTimeMs": 2621.683909136617,
+      "durationMs": 1564.2318739677758
+    },
+    {
+      "pitch": 72,
+      "velocity": 72,
+      "startTimeMs": 2648.4652003716187,
+      "durationMs": 1582.350301361731
+    },
+    {
+      "pitch": 67,
+      "velocity": 69,
+      "startTimeMs": 3968.3236248457893,
+      "durationMs": 1159.094383573165
+    },
+    {
+      "pitch": 74,
+      "velocity": 69,
+      "startTimeMs": 3968.79937539768,
+      "durationMs": 1368.8880480413384
+    },
+    {
+      "pitch": 72,
+      "velocity": 66,
+      "startTimeMs": 4029.3313893886334,
+      "durationMs": 1200.0109042155375
+    }
+  ]
+}

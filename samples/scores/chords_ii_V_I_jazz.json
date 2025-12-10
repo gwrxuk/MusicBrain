@@ -1,0 +1,104 @@
+{
+  "title": "Chords: ii_V_I_jazz",
+  "bpm": 90,
+  "timeSignature": "4/4",
+  "ppq": 480,
+  "notes": [
+    {
+      "pitch": 62,
+      "velocity": 75,
+      "startTick": 0,
+      "durationTicks": 960,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 65,
+      "velocity": 75,
+      "startTick": 0,
+      "durationTicks": 960,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 69,
+      "velocity": 75,
+      "startTick": 0,
+      "durationTicks": 960,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 72,
+      "velocity": 75,
+      "startTick": 0,
+      "durationTicks": 960,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 67,
+      "velocity": 75,
+      "startTick": 960,
+      "durationTicks": 960,
+      "measure": 2,
+      "beat": 1.0
+    },
+    {
+      "pitch": 71,
+      "velocity": 75,
+      "startTick": 960,
+      "durationTicks": 960,
+      "measure": 2,
+      "beat": 1.0
+    },
+    {
+      "pitch": 74,
+      "velocity": 75,
+      "startTick": 960,
+      "durationTicks": 960,
+      "measure": 2,
+      "beat": 1.0
+    },
+    {
+      "pitch": 77,
+      "velocity": 75,
+      "startTick": 960,
+      "durationTicks": 960,
+      "measure": 2,
+      "beat": 1.0
+    },
+    {
+      "pitch": 60,
+      "velocity": 75,
+      "startTick": 1920,
+      "durationTicks": 960,
+      "measure": 3,
+      "beat": 1.0
+    },
+    {
+      "pitch": 64,
+      "velocity": 75,
+      "startTick": 1920,
+      "durationTicks": 960,
+      "measure": 3,
+      "beat": 1.0
+    },
+    {
+      "pitch": 67,
+      "velocity": 75,
+      "startTick": 1920,
+      "durationTicks": 960,
+      "measure": 3,
+      "beat": 1.0
+    },
+    {
+      "pitch": 71,
+      "velocity": 75,
+      "startTick": 1920,
+      "durationTicks": 960,
+      "measure": 3,
+      "beat": 1.0
+    }
+  ]
+}

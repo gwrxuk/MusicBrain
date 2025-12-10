@@ -1,0 +1,72 @@
+{
+  "title": "Melody: etude_pattern",
+  "bpm": 100,
+  "timeSignature": "4/4",
+  "ppq": 480,
+  "notes": [
+    {
+      "pitch": 60,
+      "velocity": 80,
+      "startTick": 0,
+      "durationTicks": 120,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 64,
+      "velocity": 80,
+      "startTick": 120,
+      "durationTicks": 120,
+      "measure": 1,
+      "beat": 1.25
+    },
+    {
+      "pitch": 67,
+      "velocity": 80,
+      "startTick": 240,
+      "durationTicks": 120,
+      "measure": 1,
+      "beat": 1.5
+    },
+    {
+      "pitch": 72,
+      "velocity": 80,
+      "startTick": 360,
+      "durationTicks": 120,
+      "measure": 1,
+      "beat": 1.75
+    },
+    {
+      "pitch": 67,
+      "velocity": 80,
+      "startTick": 480,
+      "durationTicks": 120,
+      "measure": 1,
+      "beat": 2.0
+    },
+    {
+      "pitch": 64,
+      "velocity": 80,
+      "startTick": 600,
+      "durationTicks": 120,
+      "measure": 1,
+      "beat": 2.25
+    },
+    {
+      "pitch": 60,
+      "velocity": 80,
+      "startTick": 720,
+      "durationTicks": 120,
+      "measure": 1,
+      "beat": 2.5
+    },
+    {
+      "pitch": 64,
+      "velocity": 80,
+      "startTick": 840,
+      "durationTicks": 120,
+      "measure": 1,
+      "beat": 2.75
+    }
+  ]
+}

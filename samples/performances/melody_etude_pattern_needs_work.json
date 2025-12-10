@@ -1,0 +1,47 @@
+{
+  "scoreTitle": "Melody: etude_pattern",
+  "notes": [
+    {
+      "pitch": 61,
+      "velocity": 84,
+      "startTimeMs": 57.775404328943324,
+      "durationMs": 135.4831659404315
+    },
+    {
+      "pitch": 64,
+      "velocity": 75,
+      "startTimeMs": 216.76230748317315,
+      "durationMs": 167.32672238087278
+    },
+    {
+      "pitch": 67,
+      "velocity": 76,
+      "startTimeMs": 296.05349792586213,
+      "durationMs": 148.71912514920908
+    },
+    {
+      "pitch": 72,
+      "velocity": 81,
+      "startTimeMs": 461.94852128910304,
+      "durationMs": 126.17593261853725
+    },
+    {
+      "pitch": 64,
+      "velocity": 82,
+      "startTimeMs": 796.7889503265835,
+      "durationMs": 147.65849116481087
+    },
+    {
+      "pitch": 60,
+      "velocity": 70,
+      "startTimeMs": 858.9905697678912,
+      "durationMs": 178.43350387321772
+    },
+    {
+      "pitch": 64,
+      "velocity": 83,
+      "startTimeMs": 1100.226512782645,
+      "durationMs": 145.86890985860555
+    }
+  ]
+}

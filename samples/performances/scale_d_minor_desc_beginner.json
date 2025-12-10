@@ -1,0 +1,29 @@
+{
+  "scoreTitle": "Scale: d_minor_descending",
+  "notes": [
+    {
+      "pitch": 57,
+      "velocity": 72,
+      "startTimeMs": 1507.1559645455293,
+      "durationMs": 587.6843255792562
+    },
+    {
+      "pitch": 67,
+      "velocity": 88,
+      "startTimeMs": 2021.3715406738897,
+      "durationMs": 581.5717753194858
+    },
+    {
+      "pitch": 52,
+      "velocity": 94,
+      "startTimeMs": 3063.806133686029,
+      "durationMs": 571.8106494602824
+    },
+    {
+      "pitch": 38,
+      "velocity": 65,
+      "startTimeMs": 3441.8731943172597,
+      "durationMs": 541.8297674412216
+    }
+  ]
+}

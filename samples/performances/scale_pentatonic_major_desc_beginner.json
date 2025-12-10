@@ -1,0 +1,29 @@
+{
+  "scoreTitle": "Scale: pentatonic_major_descending",
+  "notes": [
+    {
+      "pitch": 72,
+      "velocity": 68,
+      "startTimeMs": 0,
+      "durationMs": 462.50966999942665
+    },
+    {
+      "pitch": 69,
+      "velocity": 86,
+      "startTimeMs": 608.86220422859,
+      "durationMs": 584.597007146877
+    },
+    {
+      "pitch": 66,
+      "velocity": 88,
+      "startTimeMs": 983.6503644524178,
+      "durationMs": 547.7591996977432
+    },
+    {
+      "pitch": 62,
+      "velocity": 68,
+      "startTimeMs": 1959.1150355398895,
+      "durationMs": 482.16172658443173
+    }
+  ]
+}

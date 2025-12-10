@@ -1,0 +1,95 @@
+{
+  "scoreTitle": "Melody: ode_to_joy",
+  "notes": [
+    {
+      "pitch": 64,
+      "velocity": 74,
+      "startTimeMs": 1.8924473382387796,
+      "durationMs": 501.53162490482015
+    },
+    {
+      "pitch": 64,
+      "velocity": 73,
+      "startTimeMs": 606.7522134385583,
+      "durationMs": 690.7870306348129
+    },
+    {
+      "pitch": 65,
+      "velocity": 93,
+      "startTimeMs": 1209.0616966005348,
+      "durationMs": 643.7042390324029
+    },
+    {
+      "pitch": 67,
+      "velocity": 79,
+      "startTimeMs": 1807.5808200331974,
+      "durationMs": 545.52315338718
+    },
+    {
+      "pitch": 67,
+      "velocity": 95,
+      "startTimeMs": 2391.318716807619,
+      "durationMs": 623.8832801493238
+    },
+    {
+      "pitch": 65,
+      "velocity": 65,
+      "startTimeMs": 3004.393298757581,
+      "durationMs": 626.1088200983924
+    },
+    {
+      "pitch": 64,
+      "velocity": 82,
+      "startTimeMs": 3590.2060806184627,
+      "durationMs": 694.8643625315844
+    },
+    {
+      "pitch": 62,
+      "velocity": 90,
+      "startTimeMs": 4201.143943611044,
+      "durationMs": 690.4128700180601
+    },
+    {
+      "pitch": 60,
+      "velocity": 91,
+      "startTimeMs": 4811.777165792603,
+      "durationMs": 641.1871387574257
+    },
+    {
+      "pitch": 60,
+      "velocity": 91,
+      "startTimeMs": 5409.383437419618,
+      "durationMs": 624.3146098100526
+    },
+    {
+      "pitch": 62,
+      "velocity": 65,
+      "startTimeMs": 6009.3560912527955,
+      "durationMs": 509.9433275390134
+    },
+    {
+      "pitch": 64,
+      "velocity": 88,
+      "startTimeMs": 6585.280899082464,
+      "durationMs": 484.7476007194894
+    },
+    {
+      "pitch": 64,
+      "velocity": 67,
+      "startTimeMs": 7195.734630567918,
+      "durationMs": 1013.8610966566158
+    },
+    {
+      "pitch": 62,
+      "velocity": 80,
+      "startTimeMs": 8091.634430416135,
+      "durationMs": 356.0755807426565
+    },
+    {
+      "pitch": 62,
+      "velocity": 84,
+      "startTimeMs": 8406.121431002088,
+      "durationMs": 1060.3614342467858
+    }
+  ]
+}

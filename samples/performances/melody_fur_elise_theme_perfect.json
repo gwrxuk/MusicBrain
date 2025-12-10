@@ -1,0 +1,59 @@
+{
+  "scoreTitle": "Melody: fur_elise_theme",
+  "notes": [
+    {
+      "pitch": 76,
+      "velocity": 78,
+      "startTimeMs": 4.140293185706967,
+      "durationMs": 348.95922823585687
+    },
+    {
+      "pitch": 75,
+      "velocity": 95,
+      "startTimeMs": 298.95808555242456,
+      "durationMs": 284.95725612240676
+    },
+    {
+      "pitch": 76,
+      "velocity": 73,
+      "startTimeMs": 603.7960716082664,
+      "durationMs": 276.8876023636617
+    },
+    {
+      "pitch": 75,
+      "velocity": 65,
+      "startTimeMs": 901.7330081195797,
+      "durationMs": 348.02247039293565
+    },
+    {
+      "pitch": 76,
+      "velocity": 76,
+      "startTimeMs": 1196.5337534837804,
+      "durationMs": 340.89235498014716
+    },
+    {
+      "pitch": 71,
+      "velocity": 70,
+      "startTimeMs": 1498.1747096281565,
+      "durationMs": 355.0992711533792
+    },
+    {
+      "pitch": 74,
+      "velocity": 71,
+      "startTimeMs": 1804.7349032306197,
+      "durationMs": 313.95215002694823
+    },
+    {
+      "pitch": 72,
+      "velocity": 78,
+      "startTimeMs": 2104.319403661628,
+      "durationMs": 255.46445572917912
+    },
+    {
+      "pitch": 69,
+      "velocity": 93,
+      "startTimeMs": 2396.7371727081477,
+      "durationMs": 556.3499871205278
+    }
+  ]
+}

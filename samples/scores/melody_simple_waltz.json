@@ -1,0 +1,72 @@
+{
+  "title": "Melody: simple_waltz",
+  "bpm": 100,
+  "timeSignature": "4/4",
+  "ppq": 480,
+  "notes": [
+    {
+      "pitch": 60,
+      "velocity": 80,
+      "startTick": 0,
+      "durationTicks": 480,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 64,
+      "velocity": 80,
+      "startTick": 480,
+      "durationTicks": 480,
+      "measure": 1,
+      "beat": 2.0
+    },
+    {
+      "pitch": 67,
+      "velocity": 80,
+      "startTick": 960,
+      "durationTicks": 480,
+      "measure": 1,
+      "beat": 3.0
+    },
+    {
+      "pitch": 64,
+      "velocity": 80,
+      "startTick": 1440,
+      "durationTicks": 480,
+      "measure": 1,
+      "beat": 4.0
+    },
+    {
+      "pitch": 60,
+      "velocity": 80,
+      "startTick": 1920,
+      "durationTicks": 480,
+      "measure": 2,
+      "beat": 1.0
+    },
+    {
+      "pitch": 65,
+      "velocity": 80,
+      "startTick": 2400,
+      "durationTicks": 480,
+      "measure": 2,
+      "beat": 2.0
+    },
+    {
+      "pitch": 69,
+      "velocity": 80,
+      "startTick": 2880,
+      "durationTicks": 480,
+      "measure": 2,
+      "beat": 3.0
+    },
+    {
+      "pitch": 65,
+      "velocity": 80,
+      "startTick": 3360,
+      "durationTicks": 480,
+      "measure": 2,
+      "beat": 4.0
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "scoreTitle": "Melody: twinkle",
+  "notes": [
+    {
+      "pitch": 60,
+      "velocity": 75,
+      "startTimeMs": 3.0450446529345996,
+      "durationMs": 545.5246717614608
+    },
+    {
+      "pitch": 60,
+      "velocity": 67,
+      "startTimeMs": 597.656248781484,
+      "durationMs": 566.1823044445679
+    },
+    {
+      "pitch": 67,
+      "velocity": 85,
+      "startTimeMs": 1200.1279098947832,
+      "durationMs": 498.75816247321364
+    },
+    {
+      "pitch": 67,
+      "velocity": 76,
+      "startTimeMs": 1796.1858788185828,
+      "durationMs": 489.18753244762314
+    },
+    {
+      "pitch": 69,
+      "velocity": 74,
+      "startTimeMs": 2398.2924129255134,
+      "durationMs": 658.8507231752242
+    },
+    {
+      "pitch": 69,
+      "velocity": 84,
+      "startTimeMs": 2996.906424366358,
+      "durationMs": 719.5189693055125
+    },
+    {
+      "pitch": 67,
+      "velocity": 94,
+      "startTimeMs": 3602.3982100593394,
+      "durationMs": 1085.3450131721515
+    },
+    {
+      "pitch": 65,
+      "velocity": 77,
+      "startTimeMs": 4798.466323597962,
+      "durationMs": 706.995601783559
+    },
+    {
+      "pitch": 65,
+      "velocity": 85,
+      "startTimeMs": 5395.118907203675,
+      "durationMs": 603.0352735327625
+    },
+    {
+      "pitch": 64,
+      "velocity": 72,
+      "startTimeMs": 5998.975052850513,
+      "durationMs": 653.6006136223145
+    },
+    {
+      "pitch": 64,
+      "velocity": 82,
+      "startTimeMs": 6600.870036392359,
+      "durationMs": 661.8291118182034
+    },
+    {
+      "pitch": 62,
+      "velocity": 75,
+      "startTimeMs": 7202.919148883661,
+      "durationMs": 682.9924002668498
+    },
+    {
+      "pitch": 62,
+      "velocity": 79,
+      "startTimeMs": 7799.17687864673,
+      "durationMs": 587.9932645313933
+    },
+    {
+      "pitch": 60,
+      "velocity": 69,
+      "startTimeMs": 8400.775084486138,
+      "durationMs": 1106.6745291114594
+    }
+  ]
+}

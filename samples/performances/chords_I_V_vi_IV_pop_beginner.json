@@ -1,0 +1,53 @@
+{
+  "scoreTitle": "Chords: I_V_vi_IV_pop",
+  "notes": [
+    {
+      "pitch": 65,
+      "velocity": 89,
+      "startTimeMs": 83.53678774712935,
+      "durationMs": 1498.8899478319158
+    },
+    {
+      "pitch": 68,
+      "velocity": 83,
+      "startTimeMs": 85.6269112005913,
+      "durationMs": 1275.6308607224694
+    },
+    {
+      "pitch": 60,
+      "velocity": 61,
+      "startTimeMs": 111.95896871693485,
+      "durationMs": 1589.9428240863888
+    },
+    {
+      "pitch": 74,
+      "velocity": 71,
+      "startTimeMs": 1376.029018016814,
+      "durationMs": 1470.7808986956386
+    },
+    {
+      "pitch": 57,
+      "velocity": 82,
+      "startTimeMs": 2614.5962354622834,
+      "durationMs": 1558.9673526886788
+    },
+    {
+      "pitch": 64,
+      "velocity": 87,
+      "startTimeMs": 2736.5732582854134,
+      "durationMs": 1496.0382861062815
+    },
+    {
+      "pitch": 69,
+      "velocity": 82,
+      "startTimeMs": 3913.014630273373,
+      "durationMs": 1323.9689163012567
+    },
+    {
+      "pitch": 73,
+      "velocity": 60,
+      "startTimeMs": 4056.476535173484,
+      "durationMs": 1259.853747391532
+    }
+  ]
+}

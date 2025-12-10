@@ -1,0 +1,71 @@
+{
+  "scoreTitle": "Melody: mary_lamb",
+  "notes": [
+    {
+      "pitch": 62,
+      "velocity": 87,
+      "startTimeMs": 569.486514804554,
+      "durationMs": 652.5287183737727
+    },
+    {
+      "pitch": 59,
+      "velocity": 75,
+      "startTimeMs": 1140.052285161471,
+      "durationMs": 634.1612614527315
+    },
+    {
+      "pitch": 62,
+      "velocity": 93,
+      "startTimeMs": 1775.122364912432,
+      "durationMs": 678.9728947524958
+    },
+    {
+      "pitch": 64,
+      "velocity": 69,
+      "startTimeMs": 2442.845061977225,
+      "durationMs": 583.828388755674
+    },
+    {
+      "pitch": 64,
+      "velocity": 70,
+      "startTimeMs": 2944.482474689632,
+      "durationMs": 518.872070293416
+    },
+    {
+      "pitch": 76,
+      "velocity": 73,
+      "startTimeMs": 3655.3493929849383,
+      "durationMs": 1054.2249213518753
+    },
+    {
+      "pitch": 62,
+      "velocity": 67,
+      "startTimeMs": 4818.308524529311,
+      "durationMs": 600.6175547379031
+    },
+    {
+      "pitch": 63,
+      "velocity": 84,
+      "startTimeMs": 5347.3920996889265,
+      "durationMs": 652.9518644249456
+    },
+    {
+      "pitch": 61,
+      "velocity": 65,
+      "startTimeMs": 6052.037802772261,
+      "durationMs": 998.9869703488176
+    },
+    {
+      "pitch": 67,
+      "velocity": 84,
+      "startTimeMs": 7811.541952391371,
+      "durationMs": 633.3578861301289
+    },
+    {
+      "pitch": 67,
+      "velocity": 95,
+      "startTimeMs": 8366.347465088256,
+      "durationMs": 1105.0051742182188
+    }
+  ]
+}

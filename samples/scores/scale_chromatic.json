@@ -1,0 +1,112 @@
+{
+  "title": "Scale: chromatic",
+  "bpm": 120,
+  "timeSignature": "4/4",
+  "ppq": 480,
+  "notes": [
+    {
+      "pitch": 60,
+      "velocity": 80,
+      "startTick": 0,
+      "durationTicks": 480,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 61,
+      "velocity": 80,
+      "startTick": 480,
+      "durationTicks": 480,
+      "measure": 1,
+      "beat": 2.0
+    },
+    {
+      "pitch": 62,
+      "velocity": 80,
+      "startTick": 960,
+      "durationTicks": 480,
+      "measure": 1,
+      "beat": 3.0
+    },
+    {
+      "pitch": 63,
+      "velocity": 80,
+      "startTick": 1440,
+      "durationTicks": 480,
+      "measure": 1,
+      "beat": 4.0
+    },
+    {
+      "pitch": 64,
+      "velocity": 80,
+      "startTick": 1920,
+      "durationTicks": 480,
+      "measure": 2,
+      "beat": 1.0
+    },
+    {
+      "pitch": 65,
+      "velocity": 80,
+      "startTick": 2400,
+      "durationTicks": 480,
+      "measure": 2,
+      "beat": 2.0
+    },
+    {
+      "pitch": 66,
+      "velocity": 80,
+      "startTick": 2880,
+      "durationTicks": 480,
+      "measure": 2,
+      "beat": 3.0
+    },
+    {
+      "pitch": 67,
+      "velocity": 80,
+      "startTick": 3360,
+      "durationTicks": 480,
+      "measure": 2,
+      "beat": 4.0
+    },
+    {
+      "pitch": 68,
+      "velocity": 80,
+      "startTick": 3840,
+      "durationTicks": 480,
+      "measure": 3,
+      "beat": 1.0
+    },
+    {
+      "pitch": 69,
+      "velocity": 80,
+      "startTick": 4320,
+      "durationTicks": 480,
+      "measure": 3,
+      "beat": 2.0
+    },
+    {
+      "pitch": 70,
+      "velocity": 80,
+      "startTick": 4800,
+      "durationTicks": 480,
+      "measure": 3,
+      "beat": 3.0
+    },
+    {
+      "pitch": 71,
+      "velocity": 80,
+      "startTick": 5280,
+      "durationTicks": 480,
+      "measure": 3,
+      "beat": 4.0
+    },
+    {
+      "pitch": 72,
+      "velocity": 80,
+      "startTick": 5760,
+      "durationTicks": 480,
+      "measure": 4,
+      "beat": 1.0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "scoreTitle": "Scale: d_minor",
+  "notes": [
+    {
+      "pitch": 50,
+      "velocity": 78,
+      "startTimeMs": 11.605250078223136,
+      "durationMs": 520.3486230872596
+    },
+    {
+      "pitch": 52,
+      "velocity": 94,
+      "startTimeMs": 526.6418160441314,
+      "durationMs": 449.1816243278761
+    },
+    {
+      "pitch": 53,
+      "velocity": 82,
+      "startTimeMs": 1002.0262388106889,
+      "durationMs": 507.24251243681346
+    },
+    {
+      "pitch": 55,
+      "velocity": 81,
+      "startTimeMs": 1512.8952631749992,
+      "durationMs": 515.5752879032383
+    },
+    {
+      "pitch": 57,
+      "velocity": 72,
+      "startTimeMs": 2012.1855987998474,
+      "durationMs": 472.34188616702875
+    },
+    {
+      "pitch": 58,
+      "velocity": 80,
+      "startTimeMs": 2491.7439065389517,
+      "durationMs": 591.5231542789828
+    },
+    {
+      "pitch": 60,
+      "velocity": 92,
+      "startTimeMs": 3020.925089947579,
+      "durationMs": 555.7293755099333
+    },
+    {
+      "pitch": 62,
+      "velocity": 82,
+      "startTimeMs": 3520.1151401638895,
+      "durationMs": 594.3639202882973
+    }
+  ]
+}

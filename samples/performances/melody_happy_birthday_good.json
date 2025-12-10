@@ -1,0 +1,77 @@
+{
+  "scoreTitle": "Melody: happy_birthday",
+  "notes": [
+    {
+      "pitch": 48,
+      "velocity": 87,
+      "startTimeMs": 0,
+      "durationMs": 425.2623418347725
+    },
+    {
+      "pitch": 60,
+      "velocity": 89,
+      "startTimeMs": 455.85891836425117,
+      "durationMs": 178.2066872754895
+    },
+    {
+      "pitch": 62,
+      "velocity": 68,
+      "startTimeMs": 614.6676129763905,
+      "durationMs": 533.3658834613225
+    },
+    {
+      "pitch": 60,
+      "velocity": 69,
+      "startTimeMs": 1183.5944658402034,
+      "durationMs": 530.3618415538399
+    },
+    {
+      "pitch": 65,
+      "velocity": 65,
+      "startTimeMs": 1776.7033316542515,
+      "durationMs": 665.9261539296893
+    },
+    {
+      "pitch": 64,
+      "velocity": 90,
+      "startTimeMs": 2376.469042911884,
+      "durationMs": 1276.698644805476
+    },
+    {
+      "pitch": 60,
+      "velocity": 66,
+      "startTimeMs": 3624.5117579041475,
+      "durationMs": 371.9245250098128
+    },
+    {
+      "pitch": 60,
+      "velocity": 94,
+      "startTimeMs": 4066.9422488467962,
+      "durationMs": 156.10751831772978
+    },
+    {
+      "pitch": 62,
+      "velocity": 65,
+      "startTimeMs": 4210.236038871795,
+      "durationMs": 501.7870351294702
+    },
+    {
+      "pitch": 72,
+      "velocity": 92,
+      "startTimeMs": 4791.132196408759,
+      "durationMs": 600.1522596731224
+    },
+    {
+      "pitch": 67,
+      "velocity": 68,
+      "startTimeMs": 5404.214121431859,
+      "durationMs": 676.7007611598974
+    },
+    {
+      "pitch": 65,
+      "velocity": 95,
+      "startTimeMs": 6012.948698040044,
+      "durationMs": 1095.2912599030976
+    }
+  ]
+}

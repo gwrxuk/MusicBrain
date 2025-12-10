@@ -1,0 +1,53 @@
+{
+  "scoreTitle": "Melody: minuet_theme",
+  "notes": [
+    {
+      "pitch": 67,
+      "velocity": 76,
+      "startTimeMs": 0,
+      "durationMs": 554.7929687290119
+    },
+    {
+      "pitch": 60,
+      "velocity": 93,
+      "startTimeMs": 602.8867131661527,
+      "durationMs": 246.31305917106263
+    },
+    {
+      "pitch": 62,
+      "velocity": 73,
+      "startTimeMs": 905.2190613183934,
+      "durationMs": 293.17355691963917
+    },
+    {
+      "pitch": 64,
+      "velocity": 71,
+      "startTimeMs": 1197.4255121364818,
+      "durationMs": 330.5931772402045
+    },
+    {
+      "pitch": 65,
+      "velocity": 86,
+      "startTimeMs": 1493.4973941024134,
+      "durationMs": 311.1761100470717
+    },
+    {
+      "pitch": 67,
+      "velocity": 84,
+      "startTimeMs": 1791.6155530650758,
+      "durationMs": 493.14767004433946
+    },
+    {
+      "pitch": 60,
+      "velocity": 89,
+      "startTimeMs": 2408.0204858192583,
+      "durationMs": 541.3246809651503
+    },
+    {
+      "pitch": 60,
+      "velocity": 70,
+      "startTimeMs": 3007.4104237028932,
+      "durationMs": 511.0045684222116
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Chords: i_iv_V_i",
+  "bpm": 90,
+  "timeSignature": "4/4",
+  "ppq": 480,
+  "notes": [
+    {
+      "pitch": 57,
+      "velocity": 75,
+      "startTick": 0,
+      "durationTicks": 960,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 60,
+      "velocity": 75,
+      "startTick": 0,
+      "durationTicks": 960,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 64,
+      "velocity": 75,
+      "startTick": 0,
+      "durationTicks": 960,
+      "measure": 1,
+      "beat": 1.0
+    },
+    {
+      "pitch": 62,
+      "velocity": 75,
+      "startTick": 960,
+      "durationTicks": 960,
+      "measure": 2,
+      "beat": 1.0
+    },
+    {
+      "pitch": 65,
+      "velocity": 75,
+      "startTick": 960,
+      "durationTicks": 960,
+      "measure": 2,
+      "beat": 1.0
+    },
+    {
+      "pitch": 69,
+      "velocity": 75,
+      "startTick": 960,
+      "durationTicks": 960,
+      "measure": 2,
+      "beat": 1.0
+    },
+    {
+      "pitch": 64,
+      "velocity": 75,
+      "startTick": 1920,
+      "durationTicks": 960,
+      "measure": 3,
+      "beat": 1.0
+    },
+    {
+      "pitch": 68,
+      "velocity": 75,
+      "startTick": 1920,
+      "durationTicks": 960,
+      "measure": 3,
+      "beat": 1.0
+    },
+    {
+      "pitch": 71,
+      "velocity": 75,
+      "startTick": 1920,
+      "durationTicks": 960,
+      "measure": 3,
+      "beat": 1.0
+    },
+    {
+      "pitch": 57,
+      "velocity": 75,
+      "startTick": 2880,
+      "durationTicks": 960,
+      "measure": 4,
+      "beat": 1.0
+    },
+    {
+      "pitch": 60,
+      "velocity": 75,
+      "startTick": 2880,
+      "durationTicks": 960,
+      "measure": 4,
+      "beat": 1.0
+    },
+    {
+      "pitch": 64,
+      "velocity": 75,
+      "startTick": 2880,
+      "durationTicks": 960,
+      "measure": 4,
+      "beat": 1.0
+    }
+  ]
+}
