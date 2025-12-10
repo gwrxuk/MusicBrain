@@ -235,16 +235,49 @@ public class PianoCoachBrain : MonoBehaviour
 
 ## 🗺️ Roadmap
 
-- [x] Core alignment algorithms (DTW, Needleman-Wunsch)
-- [x] Note accuracy evaluation
-- [x] Rhythm evaluation
-- [x] Tempo evaluation
-- [x] Real-time evaluation mode
-- [x] Feedback generation
-- [ ] Dynamics evaluation (velocity/expression)
-- [ ] ML-enhanced alignment
-- [ ] Practice history tracking
+### ✅ Phase 1: Core Engine (Complete)
+- [x] Core alignment algorithms (DTW, Needleman-Wunsch, Hybrid)
+- [x] Note accuracy evaluation with octave error detection
+- [x] Rhythm evaluation with configurable thresholds
+- [x] Tempo stability analysis with drift detection
+- [x] Real-time evaluation mode with sliding window
+- [x] Human-readable feedback generation
+- [x] Practice suggestions engine
+- [x] MIDI file parsing (DryWetMidi integration)
+- [x] Polyphonic voice separation
+- [x] Grace note and tuplet handling
+- [x] Sample data generation (260+ test files)
+- [x] Classic orchestration samples (Bach, Mozart, Chopin, Beethoven, Debussy)
+
+### 🚧 Phase 2: Dynamics & Expression (In Progress)
+- [ ] Dynamics evaluation (velocity curves)
+- [ ] Articulation detection (staccato, legato, accents)
+- [ ] Pedal usage analysis
+- [ ] Phrase shaping evaluation
+- [ ] Expression marking compliance
+
+### 📋 Phase 3: Intelligence & Learning
+- [ ] ML-enhanced alignment (neural sequence matching)
+- [ ] Error pattern recognition (common mistake detection)
+- [ ] Personalized feedback based on learning history
+- [ ] Adaptive difficulty assessment
+- [ ] Student skill profiling
+
+### 🔮 Phase 4: Practice Management
+- [ ] Practice session history tracking
+- [ ] Progress visualization over time
 - [ ] Difficulty progression system
+- [ ] Repertoire management
+- [ ] Goal setting and achievement tracking
+- [ ] Spaced repetition for problem passages
+
+### 🎯 Phase 5: Advanced Features
+- [ ] Sight-reading mode (score display sync)
+- [ ] Accompaniment mode (play-along)
+- [ ] Recording and playback with annotations
+- [ ] Multi-user/teacher review system
+- [ ] Cloud sync and backup
+- [ ] Mobile companion app integration
 
 ## 📄 License
 
